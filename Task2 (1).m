@@ -1,4 +1,4 @@
-a = imread("C:\Users\Noura\Downloads\Csc478-Hw1-442201375\image.jpg");
+a = imread("C:\Users\Noura\Downloads\image.jpg");
 
 Result = a;
 Result(Result<50)= 0;    
