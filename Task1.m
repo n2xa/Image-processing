@@ -1,4 +1,4 @@
-a = imread("C:\Users\Noura\Downloads\Csc478-Hw1-442201375\image.jpg");
+a =  imread("C:\Users\Noura\Downloads\image.jpg");
 Result = fliplr(a);
 
 subplot(1,2,1),imshow(a),title('Original Image');
