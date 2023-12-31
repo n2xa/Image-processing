@@ -1,4 +1,4 @@
-a = imread("C:\Users\Noura\Downloads\Csc478-Hw1-442201375\image.jpg");
+a =  imread("C:\Users\Noura\Downloads\image.jpg");
 
 subplot(2,2,1),imshow(a),title('Original Image');
 subplot(2,2,2),imshow(Result),title('Image after histogram equalization');
